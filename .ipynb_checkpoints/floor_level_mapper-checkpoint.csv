@@ -1,0 +1,45 @@
+nan,,
+1st,1,low
+Ground,0,ground
+3rd,3,low
+2nd,2,low
+mid floor,,mid
+top floor,,top
+ground floor,0,ground
+5th,5,mid
+4th,4,low
+Basement,-1,underground
+00,0,ground
+01,1,low
+03,3,low
+04,4,low
+02,2,low
+3,3,low
+1,1,low
+2,2,low
+-1,-1,underground
+05,5,mid
+6th,6,mid
+8th,8,mid
+9th,9,mid
+14th,14,high
+15th,15,high
+7th,7,mid
+16th,16,high
+11th,11,high
+13th,13,high
+10th,10,high
+12th,12,high
+17th,17,high
+21st or above,21,high
+12,12,high
+11,11,high
+16,16,high
+08,8,mid
+14,14,high
+15,15,high
+06,6,mid
+07,7,mid
+10,10,high
+09,9,mid
+13,13,high
