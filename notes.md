@@ -39,7 +39,8 @@
 'solar_water_heating_flag',
 'mechanical_ventilation', # ?
 'construction_age_band',
-'tenure'
+'tenure',
+'construction_age_numeric'
 
 
 #### Left out - to reconsider
@@ -89,3 +90,8 @@ What is not included below should be fine to keep (ppl should know)
 - `mainheatcont_description`, same as above
 - `main_fuel`, maybe can be simplified and retain only the stuff that matters? eg, gas/electricity, community/private?
 - `heat_loss_corridor`, seems to be quite important for some classes
+
+
+#### tracker
+- 0: first run using the initial set of variables (see above), and a seletion of 4-5 LAs
+- 1: same set of vars as above (added levels to categoricals), and a bigger random selection of 12 LAs.
